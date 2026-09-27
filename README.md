@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # Swirltubs Aftermarket Service Inventory Optimization
 
 ## Project Overview
